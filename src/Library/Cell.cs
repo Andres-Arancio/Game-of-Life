@@ -10,6 +10,5 @@ namespace PII_Game_Of_Life
         </summary>
         */
         public Boolean alive {get ; set ;}
-        public int aliveNeighboors {get ; set ;}
     }
 }
